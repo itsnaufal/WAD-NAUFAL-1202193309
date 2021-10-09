@@ -1,0 +1,26 @@
+body{
+    background-color: #DDD9D9;
+}
+
+.kanan{
+    margin-right: 20px;
+}
+
+.bawah{
+    padding-bottom: 100px;
+}
+
+.pkanan{
+    padding-right: 300px;
+    text-align: justify;
+}
+
+.pkiri{
+    padding-left: 300px;
+    text-align: justify;
+}
+
+.pform{
+    padding-left: 350px;
+    padding-right: 350px;
+}
