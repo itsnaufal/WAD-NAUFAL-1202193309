@@ -10,7 +10,7 @@
                     NIM : 1202193309
                 </div>
 
-                <p class="modal-body fw-lighter fst-italic fs-6">Allah SWT sudah menjelaskan dalam firman-Nya di Qur'an Surat Al-Insyirah Ayat 5-6 : "Karena sesungguhnya sesudah kesulitan itu ada kemudahan. Sesungguhnya sesudah kesulitan itu ada kemudahan." <i class="fa fa-smile-o text-primary" aria-hidden="true"></i> <i class="fa fa-smile-o text-primary" aria-hidden="true"></i> <i class="fa fa-smile-o text-primary" aria-hidden="true"></i> <i class="fa fa-smile-o text-primary" aria-hidden="true"></i> <i class="fa fa-smile-o text-primary" aria-hidden="true"></i> <i class="fa fa-smile-o text-primary" aria-hidden="true"></i> <i class="fa fa-smile-o text-primary" aria-hidden="true"></i> <i class="fa fa-smile-o text-primary" aria-hidden="true"></i> </p>
+                <p class="modal-body fw-lighter fst-italic fs-6">Alhamdulillah, Terimakasih insight nya kak. Ternyata memang benar setiap ada kesulitan pasti akan berbuah kemanisan atau hikmah yang bisa kita petik setelahnya. <i class="fa fa-thumbs-up text-primary" aria-hidden="true"></i><i class="fa fa-hand-peace-o text-primary" aria-hidden="true"></i></p>
 
                 <div class="modal-footer">
                     <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>

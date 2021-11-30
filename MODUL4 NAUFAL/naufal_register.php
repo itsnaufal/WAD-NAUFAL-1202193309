@@ -9,7 +9,7 @@
             $email = $_POST['email'];
             $no_hp = $_POST['no_hp'];
             $password = $_POST['password'];
-            $insert = mysqli_query($conn, "INSERT INTO users VALUES ('$nama','$email','$password','$no_hp')");
+            $insert = mysqli_query($conn, "INSERT INTO users VALUES (' ','$nama','$email','$password','$no_hp')");
             if ($insert) {
                 $alert = "Berhasil Mendaftar mang! gaskeun login";
                 $_SESSION['message'] = $alert;

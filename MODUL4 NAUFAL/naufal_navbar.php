@@ -32,7 +32,7 @@
                             <div class="d-sm-none d-lg-inline-block">Hai, <span class="text-primary text-dark"><?php echo $_SESSION['nama'] ?></span></div>
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="naufal_profile.php?<?php echo $_SESSION['id'] ?>">Profile</a></li>
+                            <li><a class="dropdown-item" href="naufal_profile.php?id=<?php echo $_SESSION['id'] ?>">Profile</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
