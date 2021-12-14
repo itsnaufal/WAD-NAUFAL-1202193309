@@ -1,21 +1,21 @@
 <?php
 
-namespace App\Models;
+    namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Illuminate\Database\Eloquent\Model;
+    use Illuminate\Database\Eloquent\Factories\HasFactory;
+    use Illuminate\Database\Eloquent\Model;
 
-class Vaccine extends Model
-{
-    use HasFactory;
-
-    protected $fillable = ['name', 'price', 'description', 'image'];
-
-    public $timestamps = false;
-
-
-    public function patients()
+    class Vaccine extends Model
     {
-        return $this->hasMany(Patient::class);
+        use HasFactory;
+
+        protected $fillable = ['name', 'price', 'description', 'image'];
+
+        public $timestamps = false;
+
+
+        public function patients()
+        {
+            return $this->hasMany(Patient::class);
+        }
     }
-}
